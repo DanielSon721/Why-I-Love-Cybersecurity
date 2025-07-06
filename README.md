@@ -1,6 +1,7 @@
 7/5/2025
 
 Why I love cybersecurity.
+
 By Daniel Son
 
 Do you know what the bane of my existence is? Mosquitoes. And recently, when the calendar struck July, the mosquitoes began spawning in to ruin my evening run through trails.
@@ -26,7 +27,9 @@ Yes. ZERO mosquitoes bites were felt the next day. My three layered defense work
 1. I covered all parts of my body except the essential ones
 2. I covered myself in bug spray to deter attackers
 3. My hands swatted away anything near my face
+
  In cybersecurity terms,
+ 
 1. I minimized the attack surface by closing off all unnecessary ports
 2. I put up “DO NOT ENTER” signs around my facility to deter attackers
 3. The CISO and security team acted as the final line of defense, neutralizing any threats that got through
@@ -35,7 +38,7 @@ And this was all so I could keep enjoying my nature runs. AKA business continuit
 
 So why do I love cybersecurity?
 
-It’s that amazing feeling of victory when you’ve successfully defended yourself and innocent people from those pesky hackers. 
+It’s that amazing feeling of victory when you’ve successfully defended yourself and innocent people from those pesky hackers.
 
-                                         🗡️
-                                   🦟
+  🗡️
+🦟

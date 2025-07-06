@@ -1,6 +1,6 @@
 7/5/2025
 
-Why I love cybersecurity.
+Why I Love Cybersecurity
 
 By Daniel Son
 

@@ -40,5 +40,4 @@ So why do I love cybersecurity?
 
 It’s that amazing feeling of victory when you’ve successfully defended yourself and innocent people from those pesky hackers.
 
-  🗡️
-🦟
+🦟🗡️

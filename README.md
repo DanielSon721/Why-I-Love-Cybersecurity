@@ -10,7 +10,7 @@ Mosquitoes.
 
 Recently, when the calendar struck July, the mosquitoes began spawning in to ruin my evening trail runs.
 
-It’s my first run back after a break, and I can’t help but notice the buzzing around my ears, that THWACK on my cheek from a bug flying into it. The mosquitoes are malcicious hackers trying to exploit my bodies resources.
+It’s my first run back after a break, and I can’t help but notice the buzzing around my ears, that THWACK on my cheek from a bug flying into it. The mosquitoes are malicious hackers trying to exploit my bodies resources.
 
 I’m sick of it. You know what I do? I don’t back down and give up on running. I say bring it on.
 
